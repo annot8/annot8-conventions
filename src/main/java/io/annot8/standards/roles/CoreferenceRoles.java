@@ -6,7 +6,7 @@ public class CoreferenceRoles {
 
   public static final String PREFIX = "coreference";
 
-  public static final String COREREFERENCE = PathUtils.prefix(PREFIX, "coreference");
+  public static final String COREREFERENCE = PathUtils.prefix(PREFIX, "mention");
 
   protected CoreferenceRoles() {
     // Singleton, but allow other to add additional
