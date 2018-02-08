@@ -1,5 +1,8 @@
 package io.annot8.standards.types;
 
+/**
+ * Types of annotation
+ */
 public class AnnotationTypes {
 
   public static final String PERSON = "person";

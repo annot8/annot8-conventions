@@ -1,5 +1,8 @@
 package io.annot8.standards.types;
 
+/**
+ * Types of group
+ */
 public class GroupTypes {
 
   public static final String ENTITY = "entity";

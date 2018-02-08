@@ -2,6 +2,9 @@ package io.annot8.standards.properties;
 
 import io.annot8.standards.utils.PathUtils;
 
+/**
+ * Property key for the annotations/groups with type person.
+ */
 // TODO: PersonProperties?
 public class PersonKeys {
 
