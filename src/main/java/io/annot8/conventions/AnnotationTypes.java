@@ -17,8 +17,9 @@ public class AnnotationTypes {
   public static final String ANNOTATION_TYPE_DOMAIN = "domain";
   public static final String ANNOTATION_TYPE_EMAIL = "email";
   public static final String ANNOTATION_TYPE_FINANCIALACCOUNT = "financialaccount";
-  public static final String ANNOTATION_TYPE_IPADDRESS = "ipaddress";
   public static final String ANNOTATION_TYPE_GEOPOLITICALENTITY = "gpe";
+  public static final String ANNOTATION_TYPE_IPADDRESS = "ipaddress";
+  public static final String ANNOTATION_TYPE_HASHTAG = "hashtag";
   public static final String ANNOTATION_TYPE_LOCATION = "location";
   public static final String ANNOTATION_TYPE_MONEY = "money";
   public static final String ANNOTATION_TYPE_ORGANISATION = "organisation";
