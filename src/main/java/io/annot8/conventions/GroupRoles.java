@@ -1,4 +1,4 @@
-package io.annot8.standards;
+package io.annot8.conventions;
 
 /**
  * Standard names for common group roles
