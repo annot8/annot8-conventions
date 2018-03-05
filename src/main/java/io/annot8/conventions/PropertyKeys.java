@@ -16,4 +16,5 @@ public class PropertyKeys {
   public static final String PROPERTY_KEY_SURNAME = "surname";
   public static final String PROPERTY_KEY_TITLE = "title";
   public static final String PROPERTY_KEY_VALUE = "value";
+  public static final String PROPERTY_KEY_VERSION = "version";
 }
