@@ -29,12 +29,6 @@
 
   <dependencies>
     <dependency>
-      <groupId>io.annot8</groupId>
-      <artifactId>core</artifactId>
-      <version>${annot8.version}</version>
-    </dependency>
-
-    <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
       <scope>test</scope>
