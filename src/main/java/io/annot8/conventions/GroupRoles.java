@@ -4,9 +4,6 @@ package io.annot8.conventions;
  * Standard names for common group roles
  */
 public class GroupRoles {
-  private GroupRoles(){
-    //No constructor - only access to public methods
-  }
 
   public static final String GROUP_ROLE_INSTRUMENT = "instrument";
   public static final String GROUP_ROLE_LOCATION = "location";
@@ -16,4 +13,7 @@ public class GroupRoles {
   public static final String GROUP_ROLE_PARTOF = "partof";
   public static final String GROUP_ROLE_SOURCE = "source";
   public static final String GROUP_ROLE_TARGET = "target";
+  private GroupRoles() {
+    //No constructor - only access to public methods
+  }
 }

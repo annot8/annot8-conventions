@@ -1,9 +1,6 @@
 package io.annot8.conventions;
 
 public class PropertyKeys {
-  private PropertyKeys(){
-    //No constructor - only access to public methods
-  }
 
   public static final String PROPERTY_KEY_END = "end";
   public static final String PROPERTY_KEY_FIRSTNAME = "firstname";
@@ -17,4 +14,7 @@ public class PropertyKeys {
   public static final String PROPERTY_KEY_TITLE = "title";
   public static final String PROPERTY_KEY_VALUE = "value";
   public static final String PROPERTY_KEY_VERSION = "version";
+  private PropertyKeys() {
+    //No constructor - only access to public methods
+  }
 }
