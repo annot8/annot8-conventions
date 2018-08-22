@@ -2,6 +2,10 @@ package io.annot8.conventions;
 
 public class PropertyKeys {
 
+  public static final String PROPERTY_KEY_ACCOUNTNUMBER = "accountnumber";
+  public static final String PROPERTY_KEY_BRANCHCODE = "branchcode";
+  public static final String PROPERTY_KEY_BANKCODE = "bankcode";
+  public static final String PROPERTY_KEY_COUNTRY = "country";
   public static final String PROPERTY_KEY_END = "end";
   public static final String PROPERTY_KEY_FIRSTNAME = "firstname";
   public static final String PROPERTY_KEY_GENDER = "gender";
