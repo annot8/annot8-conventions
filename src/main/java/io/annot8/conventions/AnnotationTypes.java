@@ -22,6 +22,7 @@ public class AnnotationTypes {
   public static final String ANNOTATION_TYPE_PASSPORT = "passport";
   public static final String ANNOTATION_TYPE_PERSON = "person";
   public static final String ANNOTATION_TYPE_PHONENUMBER = "phonenumber";
+  public static final String ANNOTATION_TYPE_TIMESTAMP = "timestamp";
   public static final String ANNOTATION_TYPE_URL = "url";
   public static final String ANNOTATION_TYPE_USERNAME = "username";
   public static final String ANNOTATION_TYPE_VEHICLE = "vehicle";

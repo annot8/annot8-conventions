@@ -15,10 +15,12 @@ public class PropertyKeys {
   public static final String PROPERTY_KEY_NAME = "name";
   public static final String PROPERTY_KEY_NATIONALITY = "nationality";
   public static final String PROPERTY_KEY_REGISTRATION = "registration";
+  public static final String PROPERTY_KEY_REFERENCE = "reference";
   public static final String PROPERTY_KEY_SOURCE = "source";
   public static final String PROPERTY_KEY_START = "start";
   public static final String PROPERTY_KEY_SURNAME = "surname";
   public static final String PROPERTY_KEY_TITLE = "title";
+  public static final String PROPERTY_KEY_UNIT = "unit";
   public static final String PROPERTY_KEY_VALUE = "value";
   public static final String PROPERTY_KEY_VERSION = "version";
   private PropertyKeys() {
