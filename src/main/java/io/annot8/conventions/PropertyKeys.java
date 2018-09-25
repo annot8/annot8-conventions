@@ -1,3 +1,4 @@
+/* Annot8 (annot8.io) - Licensed under Apache-2.0. */
 package io.annot8.conventions;
 
 public class PropertyKeys {
@@ -23,7 +24,8 @@ public class PropertyKeys {
   public static final String PROPERTY_KEY_UNIT = "unit";
   public static final String PROPERTY_KEY_VALUE = "value";
   public static final String PROPERTY_KEY_VERSION = "version";
+
   private PropertyKeys() {
-    //No constructor - only access to public methods
+    // No constructor - only access to public methods
   }
 }

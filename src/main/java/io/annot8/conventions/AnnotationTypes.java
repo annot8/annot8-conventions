@@ -1,8 +1,7 @@
+/* Annot8 (annot8.io) - Licensed under Apache-2.0. */
 package io.annot8.conventions;
 
-/**
- * Standard names for common annotation types
- */
+/** Standard names for common annotation types */
 public class AnnotationTypes {
 
   public static final String ANNOTATION_TYPE_ADDRESS = "address";
@@ -34,6 +33,6 @@ public class AnnotationTypes {
   public static final String ANNOTATION_TYPE_WEAPON = "weapon";
 
   private AnnotationTypes() {
-    //No constructor - only access to public methods
+    // No constructor - only access to public methods
   }
 }
