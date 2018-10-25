@@ -13,6 +13,7 @@ public class PropertyKeys {
   public static final String PROPERTY_KEY_FIRSTNAME = "firstname";
   public static final String PROPERTY_KEY_GENDER = "gender";
   public static final String PROPERTY_KEY_IDENTIFIER = "identifier";
+  public static final String PROPERTY_KEY_LANGUAGE = "language";
   public static final String PROPERTY_KEY_NAME = "name";
   public static final String PROPERTY_KEY_NATIONALITY = "nationality";
   public static final String PROPERTY_KEY_REGISTRATION = "registration";
