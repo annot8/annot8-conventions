@@ -20,6 +20,7 @@ public class AnnotationTypes {
   public static final String ANNOTATION_TYPE_HASHTAG = "hashtag";
   public static final String ANNOTATION_TYPE_LANGUAGE = "language";
   public static final String ANNOTATION_TYPE_LOCATION = "location";
+  public static final String ANNOTATION_TYPE_MACADDRESS = "macaddress";
   public static final String ANNOTATION_TYPE_MASS = "mass";
   public static final String ANNOTATION_TYPE_MONEY = "money";
   public static final String ANNOTATION_TYPE_ORGANISATION = "organisation";
