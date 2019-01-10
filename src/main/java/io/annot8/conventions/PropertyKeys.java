@@ -3,12 +3,12 @@ package io.annot8.conventions;
 
 public class PropertyKeys {
 
-  public static final String PROPERTY_KEY_ACCESSEDAT = "accessedat";
-  public static final String PROPERTY_KEY_ACCOUNTNUMBER = "accountnumber";
-  public static final String PROPERTY_KEY_ACCOUNTTYPE = "accounttype";
-  public static final String PROPERTY_KEY_BRANCHCODE = "branchcode";
-  public static final String PROPERTY_KEY_BANKCODE = "bankcode";
-  public static final String PROPERTY_KEY_COORDINATETYPE = "coordinatetype";
+  public static final String PROPERTY_KEY_ACCESSEDAT = "accessedAt";
+  public static final String PROPERTY_KEY_ACCOUNTNUMBER = "accountNumber";
+  public static final String PROPERTY_KEY_ACCOUNTTYPE = "accountType";
+  public static final String PROPERTY_KEY_BRANCHCODE = "branchCode";
+  public static final String PROPERTY_KEY_BANKCODE = "bankCode";
+  public static final String PROPERTY_KEY_COORDINATETYPE = "coordinateType";
   public static final String PROPERTY_KEY_COUNTRY = "country";
   public static final String PROPERTY_KEY_END = "end";
   public static final String PROPERTY_KEY_FIRSTNAME = "firstname";
