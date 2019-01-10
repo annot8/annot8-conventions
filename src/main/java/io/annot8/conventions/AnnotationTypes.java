@@ -13,14 +13,14 @@ public class AnnotationTypes {
   public static final String ANNOTATION_TYPE_DOCUMENT = "document";
   public static final String ANNOTATION_TYPE_DOMAIN = "domain";
   public static final String ANNOTATION_TYPE_EMAIL = "email";
-  public static final String ANNOTATION_TYPE_FINANCIALACCOUNT = "financialaccount";
+  public static final String ANNOTATION_TYPE_FINANCIALACCOUNT = "financialAccount";
   public static final String ANNOTATION_TYPE_FREQUENCY = "frequency";
   public static final String ANNOTATION_TYPE_GEOPOLITICALENTITY = "gpe";
   public static final String ANNOTATION_TYPE_IPADDRESS = "ipaddress";
   public static final String ANNOTATION_TYPE_HASHTAG = "hashtag";
   public static final String ANNOTATION_TYPE_LANGUAGE = "language";
   public static final String ANNOTATION_TYPE_LOCATION = "location";
-  public static final String ANNOTATION_TYPE_MACADDRESS = "macaddress";
+  public static final String ANNOTATION_TYPE_MACADDRESS = "macAddress";
   public static final String ANNOTATION_TYPE_MASS = "mass";
   public static final String ANNOTATION_TYPE_MONEY = "money";
   public static final String ANNOTATION_TYPE_ORGANISATION = "organisation";
