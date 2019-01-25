@@ -14,6 +14,7 @@ public final class FileMetadataKeys {
   public static final String FILE_SIZE = "fileSize";
   public static final String OWNER = "owner";
   public static final String DIRECTORY = "directory";
+  public static final String FILENAME = "filename";
 
   private FileMetadataKeys() {
     // Singleton
