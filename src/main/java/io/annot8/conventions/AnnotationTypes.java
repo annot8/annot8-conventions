@@ -45,6 +45,7 @@ public class AnnotationTypes {
   public static final String ANNOTATION_TYPE_VEHICLE = ENTITY_PREFIX + "vehicle";
   public static final String ANNOTATION_TYPE_VOLUME = QUANTITY_PREFIX + "volume";
   public static final String ANNOTATION_TYPE_WEAPON = ENTITY_PREFIX + "weapon";
+  public static final String ANNOTATION_TYPE_VULNERABILITY = ENTITY_PREFIX + "vulnerability";
 
   private AnnotationTypes() {
     // No constructor - only access to public methods
