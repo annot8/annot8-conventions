@@ -13,6 +13,9 @@ public class AnnotationTypes {
   public static final String ANNOTATION_TYPE_TEMPORAL = ENTITY_PREFIX + "temporal";
   public static final String TEMPORAL_PREFIX = ANNOTATION_TYPE_TEMPORAL + PathUtils.SEPARATOR;
 
+  public static final String ANNOTATION_TYPE_GRAMMAR = ENTITY_PREFIX + "grammar";
+  public static final String GRAMMAR_PREFIX = ANNOTATION_TYPE_GRAMMAR + PathUtils.SEPARATOR;
+
   public static final String ANNOTATION_TYPE_ADDRESS = ENTITY_PREFIX + "address";
   public static final String ANNOTATION_TYPE_AREA = QUANTITY_PREFIX + "area";
   public static final String ANNOTATION_TYPE_CHEMICAL = ENTITY_PREFIX + "chemical";
@@ -39,12 +42,14 @@ public class AnnotationTypes {
   public static final String ANNOTATION_TYPE_PERSON = ENTITY_PREFIX + "person";
   public static final String ANNOTATION_TYPE_PHONENUMBER = ENTITY_PREFIX + "phonenumber";
   public static final String ANNOTATION_TYPE_REFERENCE = ENTITY_PREFIX + "reference";
+  public static final String ANNOTATION_TYPE_SENTENCE = GRAMMAR_PREFIX + "sentence";
   public static final String ANNOTATION_TYPE_TIMESTAMP = TEMPORAL_PREFIX + "timestamp";
   public static final String ANNOTATION_TYPE_URL = ENTITY_PREFIX + "url";
   public static final String ANNOTATION_TYPE_USERNAME = ENTITY_PREFIX + "username";
   public static final String ANNOTATION_TYPE_VEHICLE = ENTITY_PREFIX + "vehicle";
   public static final String ANNOTATION_TYPE_VOLUME = QUANTITY_PREFIX + "volume";
   public static final String ANNOTATION_TYPE_WEAPON = ENTITY_PREFIX + "weapon";
+  public static final String ANNOTATION_TYPE_WORDTOKEN = GRAMMAR_PREFIX + "wordToken";
   public static final String ANNOTATION_TYPE_VULNERABILITY = ENTITY_PREFIX + "vulnerability";
 
   private AnnotationTypes() {
