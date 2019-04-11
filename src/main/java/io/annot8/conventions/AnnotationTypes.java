@@ -38,6 +38,7 @@ public class AnnotationTypes {
   public static final String ANNOTATION_TYPE_MONEY = ENTITY_PREFIX + "money";
   public static final String ANNOTATION_TYPE_NATIONALITY = ENTITY_PREFIX + "nationality";
   public static final String ANNOTATION_TYPE_ORGANISATION = ENTITY_PREFIX + "organisation";
+  public static final String ANNOTATION_TYPE_PARAGRAPH = GRAMMAR_PREFIX + "paragraph";
   public static final String ANNOTATION_TYPE_PASSPORT = ENTITY_PREFIX + "passport";
   public static final String ANNOTATION_TYPE_PERSON = ENTITY_PREFIX + "person";
   public static final String ANNOTATION_TYPE_PHONENUMBER = ENTITY_PREFIX + "phonenumber";
